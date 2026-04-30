@@ -20,18 +20,18 @@ export default function Contact() {
             <div className='p-6 border rounded-xl'>
               <h3 className='font-semibold'>📧 Email</h3>
               <p className='text-sm text-gray-500 mt-1'>
-                support@cybercafe.com
+                reehanmp7@gmail.com
               </p>
             </div>
 
             <div className='p-6 border rounded-xl'>
               <h3 className='font-semibold'>📞 Phone</h3>
-              <p className='text-sm text-gray-500 mt-1'>+91 9876543210</p>
+              <p className='text-sm text-gray-500 mt-1'>+917899216384</p>
             </div>
 
             <div className='p-6 border rounded-xl'>
               <h3 className='font-semibold'>📍 Location</h3>
-              <p className='text-sm text-gray-500 mt-1'>India</p>
+              <p className='text-sm text-gray-500 mt-1'>Khanagaon</p>
             </div>
           </div>
 
