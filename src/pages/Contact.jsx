@@ -36,7 +36,7 @@ export default function Contact() {
           </div>
 
           {/* RIGHT FORM */}
-          <form className='bg-[#f8fafc] p-8 rounded-2xl border space-y-5'>
+          <form className='bg-[#f8fafc] p-8 rounded-2xl border space-y-5' action="#">
             <input
               type='text'
               placeholder='Full Name'
